@@ -25,7 +25,7 @@ The app addresses the needs of users who want an easy-to-use fitness tracking to
 
 ---
 
-## 🎨 UI/UX Design
+## UI/UX Design
 - **Minimalist Design:** Clean layout for quick and easy navigation.
 - **Consistency:** Unified color scheme, fonts, and icon styles.
 - **Clarity:** Clearly labeled buttons and icons to reduce confusion.
@@ -59,10 +59,6 @@ The app addresses the needs of users who want an easy-to-use fitness tracking to
 - **UI/UX Principles** — Designed an intuitive interface based on user-centered design.
 - **Problem-Solving** — Implemented logic to ensure data accuracy and clarity.
 - **Iterative Development** — Incremental feature building with continuous testing.
-
----
-
-## Screenshots
 
 ---
 
